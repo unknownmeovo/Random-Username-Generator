@@ -1,6 +1,5 @@
 const adjectives = ["Cool", "Fast", "Crazy", "Epic", "Wild", "Lucky", "Brave", "Happy", "Mighty", "Unknown", "Awesome", "Bad", "Best", "Big", "Black", "Blue", "Bold", "Cool", "Crazy", "Dark", "Deadly", "Epic", "Evil", "Fast", "Fierce", "Final", "First", "Flying", "Free", "Funny", "Good", "Great", "Green", "Happy", "Hard", "Heavy", "High", "Hot", "Huge", "Insane", "Intense", "Jolly", "Kind", "Last", "Lazy", "Lethal", "Light", "Little", "Long", "Loud", "Lucky", "Mad", "Mean", "Mighty", "Nice", "Old", "Pink", "Poor", "Quick", "Red", "Rich", "Sad", "Scary", "Sharp", "Short", "Sick", "Silent", "Small", "Smart", "Slow", "Soft", "Solo", "Speedy", "Strong", "Sweet", "Tall", "Tiny", "True", "Ugly", "Weird", "White", "Wild", "Wise", "Wrong", "Yellow", "Young", "Zealous", "Zesty", "Zippy", "Zorro", "Zydeco", "Zany", "Zestful", "Zoom", "Zappy", "Zany", "Zesty"];
-const nouns = [
-    "Tiger", "Phoenix", "Warrior", "Ninja", "Wizard", "Rider", "Eagle", "Dragon", "Knight", "Panda", "Killer"];
+const nouns = ["Tiger", "Phoenix", "Warrior", "Ninja", "Wizard", "Rider", "Eagle", "Dragon", "Knight", "Panda", "Killer", "Lion", "Book", "Man", "Mountain"];
 
 // Function to generate a random username
 function generateUsername() {
