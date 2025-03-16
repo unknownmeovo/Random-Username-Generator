@@ -1,1 +1,19 @@
-
+[
+  "Tiger", "Phoenix", "Warrior", "Ninja", "Wizard", "Rider", "Eagle", "Dragon", "Knight", "Panda", "Killer", 
+  "Lion", "Book", "Man", "Mountain", "Adventurer", "Archer", "Bandit", "Beast", "Berserker", "Blade", 
+  "Champion", "Chieftain", "Cobra", "Commander", "Crusader", "Cyclone", "Daredevil", "Defender", "Demon", 
+  "Falcon", "Fighter", "Gladiator", "Guardian", "Hawk", "Hurricane", "Jaguar", "Jester", "King", "Legend", 
+  "Lynx", "Maverick", "Mercenary", "Monk", "Nomad", "Outlaw", "Paladin", "Panther", "Phantom", "Pirate", 
+  "Predator", "Reaper", "Rebel", "Ronin", "Samurai", "Sentinel", "Shadow", "Slayer", "Sorcerer", "Spartan", 
+  "Storm", "Swordsman", "Tempest", "Thief", "Titan", "Tornado", "Viper", "Voyager", "Warden", "Wolf", 
+  "Wraith", "Zenith",
+  "Cyborg", "Android", "Hacker", "Drone", "Mech", "NeonGhost", "Astronaut", "Starship", "WarpLord", 
+  "CyberKnight", "Galaxian", "Synth", "VoidWalker", "TechMage", "AI", "ByteMaster", "Glitch", "SpaceRanger", 
+  "Rocket", "Nebulon", "Hypernova", "DataPhantom",
+  "Mage", "Druid", "Elf", "Orc", "DemonHunter", "Necromancer", "Summoner", "Mystic", "Sorceress", 
+  "Warlock", "Spellbinder", "Prophet", "Runemaster", "Seer", "Warden", "Shaman", "Lycan", "Fey", "Wyvern", 
+  "Bard", "Titan", "Dragonkin", "RuneKnight",
+  "AbyssWalker", "Celestial", "Infernal", "Shapeshifter", "Gargoyle", "Minotaur", "Lich", "Valkyrie", 
+  "Archmage", "Battleborn", "Stormcaller", "Chronomancer", "Nightmare", "Darklord", "Doombringer", "Specter", 
+  "Spellblade", "VoidReaver", "Shadowstalker", "Firebrand", "MoonKnight", "Ghostwalker", "Dreadlord"
+]
