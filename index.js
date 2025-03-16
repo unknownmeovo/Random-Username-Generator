@@ -18,13 +18,16 @@ const adjectives = [
   "Coldhearted", "Clever", "Critical", "Dramatic", "Durable", "Fair", "Focused", "Grim", "Imposing", "Limitless", 
   "Luminous", "Noble", "Perfect", "Pioneering", "Quick-witted", "Relentless", "Robust", "Serious", "Shrewd", 
   "Skillful", "Steady", "Tenacious", "Timeless", "Unbreakable", "Unstoppable", "Vigorous", "Whimsical", 
-  "Wondrous", "Youthful", 
+  "Wondrous", "Youthful",
   "Cyber", "Neon", "Digital", "Futuristic", "Galactic", "Hyper", "Quantum", "Robotic", "Synthetic", "Virtual", 
   "Cosmic", "Alien", "Extraterrestrial", "Nano", "Techno", "Holographic", "Interstellar", "Warped", "Mecha", 
-  "Automated", "Dystopian", "Augmented", 
+  "Automated", "Dystopian", "Augmented",
   "Arcane", "Mystic", "Enchanted", "Divine", "Shadowy", "Cursed", "Blessed", "Celestial", "Infernal", 
   "Ethereal", "Fabled", "Sorcerous", "Wicked", "Draconic", "Eldritch", "Feral", "Runic", "Titanic", 
-  "Chivalrous", "Legendary"
+  "Chivalrous", "Legendary",
+  "Gothic", "Sinister", "Arcadian", "Majestic", "Seraphic", "Omnipotent", "Astral", "Necrotic", "Stormy", 
+  "Frozen", "Burning", "Shattered", "Vengeful", "Sacred", "Supercharged", "Lunar", "Solar", "Twilight", 
+  "Abyssal", "Oblivion", "Doomed"
 ];
 const nouns = [
   "Tiger", "Phoenix", "Warrior", "Ninja", "Wizard", "Rider", "Eagle", "Dragon", "Knight", "Panda", "Killer", 
@@ -40,9 +43,11 @@ const nouns = [
   "Rocket", "Nebulon", "Hypernova", "DataPhantom",
   "Mage", "Druid", "Elf", "Orc", "DemonHunter", "Necromancer", "Summoner", "Mystic", "Sorceress", 
   "Warlock", "Spellbinder", "Prophet", "Runemaster", "Seer", "Warden", "Shaman", "Lycan", "Fey", "Wyvern", 
-  "Bard", "Titan", "Dragonkin", "RuneKnight"
+  "Bard", "Titan", "Dragonkin", "RuneKnight",
+  "AbyssWalker", "Celestial", "Infernal", "Shapeshifter", "Gargoyle", "Minotaur", "Lich", "Valkyrie", 
+  "Archmage", "Battleborn", "Stormcaller", "Chronomancer", "Nightmare", "Darklord", "Doombringer", "Specter", 
+  "Spellblade", "VoidReaver", "Shadowstalker", "Firebrand", "MoonKnight", "Ghostwalker", "Dreadlord"
 ];
-
 // Function to generate a random username
 function generateUsername() {
     const randomAdjective = adjectives[Math.floor(Math.random() * adjectives.length)];
